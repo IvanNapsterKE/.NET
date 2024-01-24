@@ -1,0 +1,15 @@
+/media/ivan/data/repos/dotNET/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject
+/media/ivan/data/repos/dotNET/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.deps.json
+/media/ivan/data/repos/dotNET/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.runtimeconfig.json
+/media/ivan/data/repos/dotNET/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.dll
+/media/ivan/data/repos/dotNET/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.pdb
+/media/ivan/data/repos/dotNET/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/media/ivan/data/repos/dotNET/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfoInputs.cache
+/media/ivan/data/repos/dotNET/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfo.cs
+/media/ivan/data/repos/dotNET/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.csproj.CoreCompileInputs.cache
+/media/ivan/data/repos/dotNET/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.sourcelink.json
+/media/ivan/data/repos/dotNET/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.dll
+/media/ivan/data/repos/dotNET/CsharpProjects/TestProject/obj/Debug/net8.0/refint/TestProject.dll
+/media/ivan/data/repos/dotNET/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.pdb
+/media/ivan/data/repos/dotNET/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
+/media/ivan/data/repos/dotNET/CsharpProjects/TestProject/obj/Debug/net8.0/ref/TestProject.dll
