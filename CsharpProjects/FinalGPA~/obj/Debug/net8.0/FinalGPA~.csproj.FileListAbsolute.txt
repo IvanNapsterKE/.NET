@@ -1,0 +1,15 @@
+/media/ivan/data/repos/dotNET/CsharpProjects/FinalGPA~/bin/Debug/net8.0/FinalGPA~
+/media/ivan/data/repos/dotNET/CsharpProjects/FinalGPA~/bin/Debug/net8.0/FinalGPA~.deps.json
+/media/ivan/data/repos/dotNET/CsharpProjects/FinalGPA~/bin/Debug/net8.0/FinalGPA~.runtimeconfig.json
+/media/ivan/data/repos/dotNET/CsharpProjects/FinalGPA~/bin/Debug/net8.0/FinalGPA~.dll
+/media/ivan/data/repos/dotNET/CsharpProjects/FinalGPA~/bin/Debug/net8.0/FinalGPA~.pdb
+/media/ivan/data/repos/dotNET/CsharpProjects/FinalGPA~/obj/Debug/net8.0/FinalGPA~.GeneratedMSBuildEditorConfig.editorconfig
+/media/ivan/data/repos/dotNET/CsharpProjects/FinalGPA~/obj/Debug/net8.0/FinalGPA~.AssemblyInfoInputs.cache
+/media/ivan/data/repos/dotNET/CsharpProjects/FinalGPA~/obj/Debug/net8.0/FinalGPA~.AssemblyInfo.cs
+/media/ivan/data/repos/dotNET/CsharpProjects/FinalGPA~/obj/Debug/net8.0/FinalGPA~.csproj.CoreCompileInputs.cache
+/media/ivan/data/repos/dotNET/CsharpProjects/FinalGPA~/obj/Debug/net8.0/FinalGPA~.sourcelink.json
+/media/ivan/data/repos/dotNET/CsharpProjects/FinalGPA~/obj/Debug/net8.0/FinalGPA~.dll
+/media/ivan/data/repos/dotNET/CsharpProjects/FinalGPA~/obj/Debug/net8.0/refint/FinalGPA~.dll
+/media/ivan/data/repos/dotNET/CsharpProjects/FinalGPA~/obj/Debug/net8.0/FinalGPA~.pdb
+/media/ivan/data/repos/dotNET/CsharpProjects/FinalGPA~/obj/Debug/net8.0/FinalGPA~.genruntimeconfig.cache
+/media/ivan/data/repos/dotNET/CsharpProjects/FinalGPA~/obj/Debug/net8.0/ref/FinalGPA~.dll
